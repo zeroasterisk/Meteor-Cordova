@@ -1,3 +1,5 @@
+> **⚠️ Personal Hobby Project** — This is an independent, personal project by [Alan Blount](https://github.com/zeroasterisk). It is **not affiliated with, endorsed by, or supported by any employer, company, or organization**. No warranty; use at your own risk.
+
 Cordova
 =======
 Simple common api for coding with Cordova / Phonegap. The functions fallback if Cordova is not loaded, degrading to browser functionality.
